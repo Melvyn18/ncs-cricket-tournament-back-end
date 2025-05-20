@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.melvyn.ncs_cricket_tournament_backend.NcsCricketTourname
+ ntBackendApplication
+
